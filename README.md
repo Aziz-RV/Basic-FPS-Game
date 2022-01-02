@@ -3,5 +3,7 @@
 This a basic FPS game made using WebGL and BabylonJS. For this project, I followed a cool course of Openclassrooms:  
 link: https://openclassrooms.com/fr/courses/3979376-creez-votre-propre-fps-en-webgl  
 WebGL is an API created by the Khronos Group for the purpose of enabling the use of OpenGL ES.  
-BabylonJS est une bibliothèque JavaScript qui va nous permettre de développer en WebGL des scènes qui vont être créées dans une simple balise canvas.  
+BabylonJS a JavaScript library that will allow us to develop in WebGL scenes that will be created in a simple canvas tag.
+
+  
 
